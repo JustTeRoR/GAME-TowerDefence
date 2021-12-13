@@ -180,3 +180,4 @@ Received Import Request.
 Start importing Assets/Level01.unity using Guid(315ed2e4cf2517049a5f55c4d3820aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31b36a608e54c068a6963be2d00be3ce') in 0.010239 seconds 
   Import took 0.012347 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
